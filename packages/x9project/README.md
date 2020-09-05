@@ -1,12 +1,11 @@
-# README #
+# X9 Framework Cocos Creaotr Extension #
+Gói package cho Cocos Creator Editor, giải pháp cho App và Game theo hướng quản lý trạng thái của component. 
 
-This README would normally document whatever steps are necessary to get your application up and running.
+
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Hỗ trợ phiên bản Cocos Creator 2.4.*
 
 ### How do I get set up? ###
 
